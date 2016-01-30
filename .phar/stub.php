@@ -1,0 +1,1 @@
+<?php echo "PocketMine-MP plugin timezoneFix v1.0-alpha\nThis file has been generated using DevTools vbleeding-x at Tue, 05 Jan 2016 15:48:43 +0900\n----------------\n";if(extension_loaded("phar")){$phar = new \Phar(__FILE__);foreach($phar->getMetadata() as $key => $value){echo ucfirst($key).": ".(is_array($value) ? implode(", ", $value):$value)."\n";}} __HALT_COMPILER(); ?>
